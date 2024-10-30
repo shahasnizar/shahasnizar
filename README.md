@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Shahas Nizar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=UI/UX Developer;6+Yrs+Exp+Web+Developer!;HTML+/+CSS+/+ReactJS+/+NextJS!;Photoshop+/+Figma!;Exploring+Tech!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=UI/UX Developer;6+Yrs+Exp+Web+Developer!;HTML+/+CSS+/+ReactJS+/+NextJS!;Photoshop+/+Figma+/+Illustrator!;Exploring+PWA!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p>
