@@ -111,7 +111,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 **Medium Articles** 
 
-[![Nihas Nizar Medium](https://github-readme-medium.vercel.app/?username=shahasnizar&limit=2)](https://medium.com/@shahasnizar)
+[![Shahas Nizar Medium](https://github-readme-medium.vercel.app/?username=shahasnizar&limit=2)](https://medium.com/@shahasnizar)
 
 
 <!--
