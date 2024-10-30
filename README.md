@@ -4,11 +4,11 @@
 </p>
 
 <p>
-  <a href="https://www.twitter.com/nihasnizar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-  <a href="https://www.linkedin.com/in/nihas-nizar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="https://www.instagram.com/nihasnizar_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+  <a href="https://www.twitter.com/shahas"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+  <a href="https://www.linkedin.com/in/shahas-nizar-689416103"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/shahas_nizar/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 <!--   <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>  -->
-  <a href="https://medium.com/@nihasnizar"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+  <a href="https://medium.com/@shahasnizar"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 <!--   <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> -->
 </p>
 
@@ -73,46 +73,45 @@
 🕑︎ Time Zone: Asia/Bengaluru
 
 💬 Programming Languages: 
-Koltin/Java              14 hrs 59 mins      ███████████████████░░░░░░   74.26 % 
-Swift                    2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+HTML/CSS                14 hrs 59 mins       ███████████████████░░░░░░   74.26 % 
+React                    2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   21.75 % 
 HTML                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 NodeJS                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 Vue.js/React.js          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-Android Studio           17 hrs 48 mins      ██████████████████████░░░   88.17 % 
-Visual Studio Code       2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Visual Studio Code       17 hrs 48 mins      ██████████████████████░░░   88.17 % 
 
 💻 Operating System: 
 Mac                      20 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 02 mins      █████████████████████████    90.00 % 
 ```
 
 **I Mostly Code in Koltin** 
 
 ```text
-Koltin                   33 repos            ████████████░░░░░░░░░░░░░   47.83 % 
-Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Swift                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-NodeJS/ReactJS           3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+ReactJS                   33 repos             ████████████░░░░░░░░░░░░░   47.83 % 
+HTML/CSS                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+TailwindCSS                6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+NuxtJS                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 **Github Profile Trophy** 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihas" alt="nihas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahasnizar" alt="shahasnizar" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihas&show_icons=true&locale=en&layout=compact" alt="nihas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahasnizar&show_icons=true&locale=en&layout=compact" alt="shahasnizar" /></p>
 
 📈 **Github Stats** 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nihas&show_icons=true&theme=gotham" alt="nihas" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shahasnizar&show_icons=true&theme=gotham" alt="shahasnizar" />
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/nihas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/shahasnizar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 **Medium Articles** 
 
-[![Nihas Nizar Medium](https://github-readme-medium.vercel.app/?username=nihasnizar&limit=2)](https://medium.com/@nihasnizar)
+[![Nihas Nizar Medium](https://github-readme-medium.vercel.app/?username=shahasnizar&limit=2)](https://medium.com/@shahasnizar)
 
 
 <!--
